@@ -1,0 +1,14 @@
+{
+  "name": "extract-dependency-artifact",
+  "version": "1.0.0",
+  "description": "this repository is to extract all dependency artifact name from maven pom file",
+  "main": "index.js",
+  "repository": "git@code.devops.fds.com:M509108/extract-dependency-artifact.git",
+  "author": "Jayant Sarkar <jayant.sarkar@macys.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "xml2js": "^0.4.19",
+    "yargs": "^10.0.3"
+  }
+}
